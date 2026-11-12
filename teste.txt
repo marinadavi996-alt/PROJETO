@@ -1,4 +1,1 @@
-EQUIPE DO PROJETO
-
-Gerente: Marina
-Desenvolvedor: Pedro, Tiago, João 
+Olá mundo
